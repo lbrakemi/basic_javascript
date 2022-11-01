@@ -1,1 +1,0 @@
-document.getElementById('demo').innerHTML = 'My First Javascript dom operations'
